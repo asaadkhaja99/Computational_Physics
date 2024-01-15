@@ -1,1 +1,1 @@
-#Christoffel Symbol Calculator
+# Christoffel Symbol Calculator
